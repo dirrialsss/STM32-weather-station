@@ -22,7 +22,7 @@
 | LCD SCL | PB6 |
 | LCD SDA | PB7 |
 | RGB R / G / B | PD14 / PD12 / PD15 |
-| Buzzer (+) | PB5 |
+| Buzzer  | PB5 |
 | FT232RL TX / RX | PA3 / PA2 |
 
 
